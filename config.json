@@ -1,0 +1,12 @@
+{
+    "log": "",
+    "url": "test_url_here",
+    "header": {
+        "Content-Type": "application/json",
+		"Client-Id": "id_here",
+		"Client-Secret": "secret_here"
+    },
+    "body": "{\"field\":\"data\"}",
+    "method": "POST",
+    "retry": 0
+}
